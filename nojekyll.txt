@@ -1,0 +1,1 @@
+Archivo para GitHub Pages (opcional). En GitHub debe llamarse .nojekyll; puede quedar vacío.
